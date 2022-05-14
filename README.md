@@ -4,6 +4,7 @@
 
 ## Intro
 
+- [x] 新增单品锁单
 - [x] 藏品升序
 - [x] 藏品最新
 - [x] 设置监控藏品数量
@@ -17,6 +18,7 @@
 
 ## Screenshot
 
+![](ScreenShot/10.jpg)
 ![](ScreenShot/1.jpg)
 ![](ScreenShot/8.jpg)
 ![](ScreenShot/7.jpg)
