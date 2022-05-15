@@ -4,7 +4,8 @@
 
 ## Intro
 
-- [x] 新增单品锁单
+- [x] 新增单品与寄售同时监控
+- [x] 新增单品锁单（同时监控多个单品）
 - [x] 藏品升序
 - [x] 藏品最新
 - [x] 设置监控藏品数量
@@ -24,6 +25,7 @@
 ![](ScreenShot/7.jpg)
 ![](ScreenShot/4.jpg)
 ![](ScreenShot/6.jpg)
+![](ScreenShot/11.jpg)
 ![](ScreenShot/5.jpg)
 ![](ScreenShot/3.jpg)
 ![](ScreenShot/2.jpg)
